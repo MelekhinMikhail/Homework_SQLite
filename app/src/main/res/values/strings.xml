@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQL-lite-Homework</string>
+    <string name="model">Модель</string>
+    <string name="car_parameters">Параметры автомобиля:</string>
+    <string name="number">Номер</string>
+    <string name="year_production">Год выпуска</string>
+    <string name="add">Добавить</string>
+    <string name="show_car_list">Показать список автомобилей</string>
+    <string name="author">Мелехин Михаил РИБО-01-21</string>
+</resources>
